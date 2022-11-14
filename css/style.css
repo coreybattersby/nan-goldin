@@ -783,7 +783,7 @@ video {
 /* ==========SECTION 9 STYLING============= */
 
 #donate{
-    height: 100vh;
+    height: 120vh;
     background-color:#f0ddde;
 }
 
@@ -827,6 +827,7 @@ footer
 .references-banner {
     background-color: #f0ddde;
     height: 200px;
+
      
 
 }
@@ -837,7 +838,6 @@ footer
     text-align: center;
     width: 60%; 
     margin: auto;
-
 }
 
 .references-banner p:hover {
